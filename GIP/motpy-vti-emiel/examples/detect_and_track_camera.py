@@ -100,8 +100,8 @@ def run(
         matching_fn_kwargs={'min_iou': tracker_min_iou,
                             'multi_match_min_iou': 0.93})
     
-    IOKey = "aio_VQOC25asRdP6V7dFxNYjyyYyxwO7"
-    IOUserName = "KemelEmiel"
+    IOKey = ""
+    IOUserName = ""
 
     ada = Client(IOUserName,IOKey)
 
